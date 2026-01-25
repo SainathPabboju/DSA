@@ -1,4 +1,4 @@
-public class Code {
+public class TwoPointer {
 
     static int removeDuplicates(int[] arr) {
         int left = 1, right = 1;
